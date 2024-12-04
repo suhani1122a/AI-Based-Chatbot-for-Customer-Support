@@ -38,3 +38,5 @@ This project is an **AI-powered chatbot for customer support** designed to provi
 - Sentiment analysis for better user understanding.  
 - Integration with external CRMs for enhanced customer support.  
 
+![Screenshot (33)](https://github.com/user-attachments/assets/d1cd175a-de48-4d4a-8725-27ea1f6f32a9)
+
